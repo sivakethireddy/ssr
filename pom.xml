@@ -4,8 +4,8 @@
 	<groupId>in.javahome</groupId>
 	<artifactId>ssr</artifactId>
 	<packaging>war</packaging>
-	<version>8.2.0</version>
-	<name>SIVA HOME myweb</name>
+	<version>8.2.1</version>
+	<name>JAVA HOME myweb</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
